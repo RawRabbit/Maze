@@ -13,6 +13,7 @@ typealias UIScr = UIScreen
 typealias CGF = CGFloat
 typealias UIB = UIButton
 typealias UITF = UITextField
+typealias UIV = UIView
 
 var sWidth = UIScr.mainScreen().bounds.width
 var sHeight = UIScr.mainScreen().bounds.height // размеры экрана
