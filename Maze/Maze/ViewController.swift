@@ -26,6 +26,5 @@ class homePage: UIPageViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
 }
 

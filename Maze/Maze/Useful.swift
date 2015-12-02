@@ -11,6 +11,7 @@ import UIKit
 
 typealias UIScr = UIScreen
 typealias CGF = CGFloat
+typealias UIB = UIButton
 
 var sWidth = UIScr.mainScreen().bounds.width
 var sHeight = UIScr.mainScreen().bounds.height // размеры экрана
